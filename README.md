@@ -44,3 +44,14 @@ The following analysis were performed during EDA:
 - Top 10 Directors
 - Top Genres
 
+
+## 📈 Key Insights
+- Netflix has significantly more Movies than TV shows.
+- The United States has the highest number of titles followed by India.
+- Netflix experienced a major content releases around the year 2018.
+- International movies and Documentaries are the most common genres.
+- Most Netflix content has the duration of around 90-110 minutes.
+
+## ✅ Conclusion
+The project explored the Netflix Movies and TV shows using Exploratory Data Analysis. Through Data Cleaning and Data visualisation important insights about the Netflix's content were identified. 
+
